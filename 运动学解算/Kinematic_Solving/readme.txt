@@ -11,7 +11,6 @@ Kinematic_Solving.ino 代码模块详解
   Robot.h：机器人底层控制（舵机驱动、初始姿态配置）
   Kinematics.h：运动学计算类，封装正/逆运动学算法
   MatrixMath.h：矩阵运算库（矩阵乘法、求逆等）
-
 数学常量：
   pi4：预定义 π/4 弧度（45°），用于简化角度计算
 
